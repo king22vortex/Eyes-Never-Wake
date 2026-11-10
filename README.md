@@ -204,4 +204,4 @@ This repository serves as the official landing page for *Eyes Never Wake*. The s
 **Get the most recent version of Eyes Never Wake today!**
 
 ---
-**Last updated:** 2026-11-10 09:02:15 UTC
+**Last updated:** 2026-11-10 17:24:56 UTC
